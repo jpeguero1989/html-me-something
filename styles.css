@@ -24,7 +24,7 @@ div{
 #image{
 
     padding-top: 20ch;
-    background-image: url('images/english-1.jpg');
+    background-image: url("images/English-1.jpg");
     background-position: center;
 }
 
